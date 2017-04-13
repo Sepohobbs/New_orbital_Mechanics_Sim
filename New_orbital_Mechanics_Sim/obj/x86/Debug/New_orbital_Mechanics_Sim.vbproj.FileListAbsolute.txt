@@ -1,0 +1,26 @@
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\bin\Debug\New_orbital_Mechanics_Sim.exe
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\bin\Debug\New_orbital_Mechanics_Sim.pdb
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\bin\Debug\New_orbital_Mechanics_Sim.xml
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\MainWindow.baml
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\MainWindow.g.vb
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\Application.g.vb
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim_MarkupCompile.cache
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.g.resources
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.exe
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.xml
+C:\Users\User\AppData\Local\Temporary Projects\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.pdb
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.exe
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.xml
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.pdb
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\bin\Debug\New_orbital_Mechanics_Sim.exe
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\bin\Debug\New_orbital_Mechanics_Sim.pdb
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\bin\Debug\New_orbital_Mechanics_Sim.xml
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\MainWindow.baml
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\MainWindow.g.vb
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\Application.g.vb
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.g.resources
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\New_orbital_Mechanics_Sim\New_orbital_Mechanics_Sim\obj\x86\Debug\New_orbital_Mechanics_Sim.vbproj.GenerateResource.Cache
