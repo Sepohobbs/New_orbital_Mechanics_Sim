@@ -26,8 +26,9 @@
 
             reference_canvas.Children.Add(my_ellipse)
 
-            Canvas.SetLeft(my_ellipse, position.X)
-            Canvas.SetBottom(my_ellipse, position.Y)
+            Canvas.SetLeft(my_ellipse, position.X - radius)
+            Canvas.SetTop(my_ellipse, position.Y - radius)
+
         End Sub
 
         Public Sub make_invisible()
@@ -43,8 +44,8 @@
         End Sub
 
         Public Sub gui_update_size()
-            my_ellipse.Width = (radius * 3)
-            my_ellipse.Height = (radius * 3)
+            my_ellipse.Width = (radius * 2)
+            my_ellipse.Height = (radius * 2)
         End Sub
 
 
@@ -58,7 +59,7 @@
 
         Public Sub gui_update()
             Canvas.SetLeft(my_ellipse, position.X - radius)
-            Canvas.SetBottom(my_ellipse, position.Y - radius)
+            Canvas.SetTop(my_ellipse, position.Y - radius)
         End Sub
 
         Public Sub add_force(ByVal f As Vector)
