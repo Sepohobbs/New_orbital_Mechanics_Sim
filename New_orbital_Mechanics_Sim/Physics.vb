@@ -22,7 +22,7 @@
             update_mass(mass)
             gui_update_size()
             my_ellipse.StrokeThickness = 0
-            my_ellipse.Fill = Brushes.Black
+            my_ellipse.Fill = Brushes.Brown
 
             reference_canvas.Children.Add(my_ellipse)
 
